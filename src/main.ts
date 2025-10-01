@@ -88,11 +88,11 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
         </p>
         </br>
         <p>
-          I'm passionate about building extensible, maintainable software and infrastructure. I focus on backend systems and ETL pipelines but I love pretty much every domain in software.
+          I'm passionate about building extensible, maintainable software and infrastructure. I focus on backend systems and ETL pipelines but I'm excited to work in pretty much every domain in software.
         </p>
         <br/>
         <p>
-          I love that this field is a team sport and I'd love to build cool things with you :-)
+          My favorite thing about software is that it's a team sport. I'd love to build cool things with you :-)
         </p>
       </div>
     </section>
