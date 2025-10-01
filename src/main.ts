@@ -79,7 +79,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   </header>
 
   <main>
-    <img src="/profile.png" alt="mimikyu" class="profile-pic">
+    <img src="profile.png" alt="mimikyu" class="profile-pic">
     <section id="about" class="blurb">
       <div class="blurb-text">
         <h1>Hi, I'm John Carmack</h1>
